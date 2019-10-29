@@ -259,6 +259,14 @@ h2::after{
 	display: inline-block;
 }
 
+.article-left{
+	padding-left: 32px;
+}
+
+.article-right{
+	padding-right: 32px;
+}
+
 
 
 
